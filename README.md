@@ -8,6 +8,7 @@ A classic Snake game built in Java, written during high school. The game runs in
 
 The game features a green-tiled 19×17 board, a segmented animated snake with head/body/tail sprites, and a red apple to chase. Score and high score are tracked at the top of the window.
 
+![Snake Game Preview](screenshots/snakegame.png)
 ---
 
 ## How to Run
